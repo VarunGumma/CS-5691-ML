@@ -1,0 +1,5 @@
+This assignment has two file, VarunGumma_CS21M070_UdaySaiVemula_CS21M066_Q1.py and VarunGumma_CS21M070_UdaySaiVemula_CS21M066_Q2.py. 
+
+1. The first script contains the code for LinearRegression (1a, 1b, 1c). It has 2 command line arguments (one interger, one float) with the second begin optional. If only the first cmd-line-arg (d) is passed, a polynomial regression model of max degree 'd' is created and the data is fit to it. If the second cmd-line-arg (l) is passed as well, a polynominal ridge regression model with ridge parameter as 'l' is created as well as along with the vanilla regression model. The code generates necessary plots, error values (for train/test data), and coefficients for the prediction function.
+
+2. The second script contains the code for Classification models (2a - Perceptron, 2b - LDA with identity variance, 2c - LDA with common variance, 2d - QDA). Directing running the script produces all plots and confusion matrices required.
